@@ -1,4 +1,13 @@
 # typocr
+<p align="center">
+  <a href="https://youtu.be/fcMyd5jNB1w">
+    <img src="https://img.youtube.com/vi/fcMyd5jNB1w/0.jpg" alt="Démo vidéo" width="600">
+  </a>
+  <br>
+  <a href="https://youtu.be/fcMyd5jNB1w">Voir la démo en vidéo</a>
+</p>
+
+
 Typocr est un outil de correction de texte. Il corrige des textes venant d’une OCR (reconnaissance de caractères) ou non conformes aux règles.
 Il corrige ou signale :
 — la typographie : espaces, ponctuation…
