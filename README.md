@@ -9,12 +9,12 @@
 
 
 Typocr est un outil de correction de texte. Il corrige des textes venant d’une OCR (reconnaissance de caractères) ou non conformes aux règles.
-Il corrige ou signale :
+Il corrige ou signale :<br>
 — la typographie : espaces, ponctuation…<br>
 — les séparateurs dans les nombres, et les abréviations ;<br>
 — les erreurs dues au scan : coupures de lignes ;<br>
 — les mots non ordinaires : acronymes.<br>
-Ces traitements seront signalés par des colorations dans le texte et insérés au début du texte modifié pour faciliter le travail de correction.
+Ces traitements seront signalés par des colorations dans le texte et insérés au début du texte modifié pour faciliter le travail de correction.<br>
 Les fichiers traités au format RTF.<br>
 Pour plus de renseignements, consulter le document sur les fonctionnalités.<br>
 Typocr est un programme open source, fonctionnant avec Windows, disponible ICI.<br> 
